@@ -1,0 +1,7 @@
+{
+  "uuid": "khadas-temp@local",
+  "name": "Khadas VIM3 Temperature",
+  "description": "Shows SoC temperature in the top panel.",
+  "shell-version": ["46"],
+  "version": 1
+}
