@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.khadas-temp" path="/org/gnome/shell/extensions/khadas-temp/">
+    <key name="show-mode" type="s">
+      <default>'soc'</default>
+      <summary>Which temperature to show</summary>
+      <description>Show SoC, DDR, or both sensors.</description>
+    </key>
+    <key name="show-icons" type="b">
+      <default>true</default>
+      <summary>Show icons</summary>
+      <description>Show icons next to the temperature readout.</description>
+    </key>
+  </schema>
+</schemalist>

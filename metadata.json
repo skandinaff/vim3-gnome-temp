@@ -3,5 +3,6 @@
   "name": "Khadas VIM3 Temperature",
   "description": "Shows SoC temperature in the top panel.",
   "shell-version": ["46"],
-  "version": 1
+  "settings-schema": "org.gnome.shell.extensions.khadas-temp",
+  "version": 2
 }
